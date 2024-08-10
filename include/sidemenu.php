@@ -43,7 +43,7 @@
                 <li><a href="sessions.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Sessions</a></li>
                 <li><a href="class.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Class</a></li>
                 <li><a href="monthly_fees_master.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Monthly Fees</a></li>
-                <li><a href="admission_fees_master.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Other Fees</a></li>
+                <li><a href="admission_fees_master.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Admission Fees</a></li>
                 
               </ul>
             </li> 
