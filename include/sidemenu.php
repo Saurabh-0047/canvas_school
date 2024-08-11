@@ -14,7 +14,7 @@
                 </span>
               </a>          
               <ul class="treeview-menu">          
-                <li><a href="form.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Form</a></li>
+                <li><a href="add_students.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Add Students</a></li>
                 <li><a href="table.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Table</a></li>
               </ul>
             </li> 
@@ -27,8 +27,8 @@
                 </span>
               </a>          
               <ul class="treeview-menu">          
-                <li><a href="form.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Form</a></li>
-                <li><a href="table.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Table</a></li>
+                <li><a href="collect_adm_fees.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Collect Admission Fees</a></li>
+                <li><a href="collect_monthly_fees.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Collect Monthly Fees</a></li>
               </ul>
             </li> 
             <li class="treeview">
